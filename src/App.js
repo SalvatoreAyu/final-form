@@ -2,6 +2,7 @@ import './App.css';
 import Form from './components/simple'
 import Hook from './components/hook'
 function App() {
+  console.log('test');
   return (
     <div className="App">
       <Form></Form>
