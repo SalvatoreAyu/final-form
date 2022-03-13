@@ -2,7 +2,7 @@ import './App.css';
 import Form from './components/simple'
 import Hook from './components/hook'
 function App() {
-  console.log('add by test2');
+  console.log('add by test2 xx');
   console.log('test hook hook2 3 4');
   console.log('sds shit');
   console.log('test main');
